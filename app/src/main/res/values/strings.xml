@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ReelBlock</string>
+    <string name="service_desc">บล็อกหน้า Reels ใน Instagram — ถ้าเปิดเจอจะพากลับไปหน้าหลักอัตโนมัติ แอปนี้อ่านเฉพาะหน้าจอของ Instagram และไม่ส่งข้อมูลไปไหน</string>
+</resources>
